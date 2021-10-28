@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2021-10-28" time="20:52:01">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.9044" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\tools-testing" machine-name="DESKTOP-3R821NM" user="Ravenusa" user-domain="DESKTOP-3R821NM" />
+  <culture-info current-culture="en-ID" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll" executed="True" result="Success" success="True" time="0.147" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TugasLibrary" executed="True" result="Success" success="True" time="0.134" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TugasLibraryTest" executed="True" result="Success" success="True" time="0.131" asserts="0">
+            <results>
+              <test-case name="TugasLibrary.TugasLibraryTest.NameOfDayTest" executed="True" result="Success" success="True" time="0.034" asserts="8" />
+              <test-case name="TugasLibrary.TugasLibraryTest.TestUserValid" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
