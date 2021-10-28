@@ -1,0 +1,11 @@
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.dll
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.dll
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.pdb
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.xml
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csprojAssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CopyComplete
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.dll
+G:\SEMESTER 3\Pemro Lanjut\modul\Praktek\5 - Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
